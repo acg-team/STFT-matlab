@@ -1,0 +1,3 @@
+function stop()
+
+error('FINE')
